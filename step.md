@@ -43,7 +43,15 @@ packages:
 - config: `pnpm --filter @double/tslib-eslint-config add -D eslint @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-config-prettier eslint-plugin-prettier`
 - changesets docs: `https://pnpm.io/zh/using-changesets`
 
+- 发布变更
 
+```
+pnpm changeset
+
+pnpm changeset version
+
+pnpm publish -r
+```
 
 
 
