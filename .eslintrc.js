@@ -1,5 +1,5 @@
 module.exports = {
   root: true,
-  extends: ['@double/tslib-eslint-config'],
+  extends: ['@passon/tslib-eslint-config'],
   rules: {},
 }

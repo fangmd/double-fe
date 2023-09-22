@@ -1,15 +1,20 @@
 {
-  "name": "@double/common",
+  "name": "@passon/common",
   "version": "0.0.2",
-  "description": "",
-  "main": "index.js",
+  "description": "> TODO: description",
+  "homepage": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "tsc": "tsc -b",
     "build:tsc": "rimraf ./dist && tsc -b",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "fanmingdong",
   "license": "ISC",
   "dependencies": {
     "dayjs": "^1.11.10"

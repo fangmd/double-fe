@@ -1,4 +1,4 @@
 module.exports = {
-  ...require('@double/prettier-config'),
+  ...require('@passon/prettier-config'),
   // semi: true,
 };

@@ -12,8 +12,8 @@
   "license": "ISC",
   "devDependencies": {
     "@changesets/cli": "^2.26.2",
-    "@double/prettier-config": "workspace:*",
-    "@double/tslib-eslint-config": "workspace:*",
+    "@passon/prettier-config": "workspace:*",
+    "@passon/tslib-eslint-config": "workspace:*",
     "rimraf": "^5.0.1",
     "typescript": "^5.2.2"
   }
