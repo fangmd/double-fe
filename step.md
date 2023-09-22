@@ -39,6 +39,10 @@ packages:
 }
 ```
 
+- config: `pnpm --filter @double/prettier-config add -D prettier`
+- config: `pnpm --filter @double/tslib-eslint-config add -D eslint @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-config-prettier eslint-plugin-prettier`
+- changesets docs: `https://pnpm.io/zh/using-changesets`
+
 
 
 

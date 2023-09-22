@@ -10,8 +10,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {},
   "devDependencies": {
+    "@double/prettier-config": "workspace:*",
+    "@double/tslib-eslint-config": "workspace:*",
     "rimraf": "^5.0.1",
     "typescript": "^5.2.2"
   }
