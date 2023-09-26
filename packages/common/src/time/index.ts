@@ -12,3 +12,4 @@ export function getCurTimeStr(formate: string | undefined) {
   }
   return dayjs().format(formate)
 }
+
