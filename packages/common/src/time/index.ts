@@ -8,8 +8,9 @@ export * from './current'
  */
 export function getCurTimeStr(formate: string | undefined) {
   if (!formate) {
-    formate = 'YYYY-MM-DD HH:mm'
+    formate = 'YYYY-MM-DD HH:mm:ss'
   }
   return dayjs().format(formate)
 }
+
 
