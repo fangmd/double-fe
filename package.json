@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@changesets/changelog-git": "^0.1.14",
     "@changesets/cli": "^2.26.2",
     "@passon/prettier-config": "workspace:*",
     "@passon/tslib-eslint-config": "workspace:*",
